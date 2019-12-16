@@ -2,7 +2,6 @@ This is the first file.
 Its for test.
 Test1 is still here.
 Test3 is here
-test2 is here
 Again and again
 Again test
 once again test
